@@ -263,6 +263,4 @@ Released under the [MIT License](files/LICENSE). Use it, change it, share it.
 
 <div align="center">
 
-**If this helped you, consider giving the repo a star.**
-
 </div>
