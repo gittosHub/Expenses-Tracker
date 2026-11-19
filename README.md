@@ -13,7 +13,7 @@ A simple, formula-driven spreadsheet for tracking your **monthly budget**, **fix
 ![License: MIT](https://img.shields.io/badge/License-MIT-F7B500?style=for-the-badge)
 
 **No macros &nbsp;•&nbsp; No add-ins &nbsp;•&nbsp; No subscriptions**
-Just a standard `.xlsx` file you fully own.
+**Just a standard `.xlsx` file you fully own.**
 
 <br>
 
@@ -252,8 +252,7 @@ This creates a fresh `Expense_Tracker_Template.xlsx`.
 
 Everything stays in your file. Nothing is sent anywhere.
 
-> [!IMPORTANT]
-> **Never commit your personal version with real financial data to a public repository.** Only the blank template belongs on GitHub. Keep your personal copy outside the repo, or add its name to `.gitignore`.
+
 
 ---
 
